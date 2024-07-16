@@ -1,0 +1,12 @@
+.TaskCard {
+    margin-bottom: 10px;
+   
+  }
+  
+  .TaskCard-content {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+  }
+  
