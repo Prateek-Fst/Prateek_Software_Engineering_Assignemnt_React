@@ -17,7 +17,7 @@ A simple Kanban board application built with React, Recoil for state management,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/kanban-board.git
+git clone https://github.com/Prateek-Fst/Prateek_Software_Engineering_Assignemnt_React.git
 cd kanban-board
 npm install
 npm start
